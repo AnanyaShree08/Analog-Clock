@@ -18,6 +18,5 @@ ___
 - Produces tick-tock sound while running
 ___
 ### Output:
-![image](https://user-images.githubusercontent.com/52618335/196786482-eba0405a-38cf-4c47-907b-3ed8e4156435.png)
+![image](https://github.com/user-attachments/assets/839b4812-d5ee-478c-9b9b-7fddffce8333)
 ___
-
